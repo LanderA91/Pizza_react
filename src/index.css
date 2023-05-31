@@ -1,0 +1,32 @@
+.header-pizza{
+  background-color: #000000;
+}
+
+.pizzaDetalle{
+  width: 30rem;
+}
+
+.card-pizza{
+  width: 25%;
+}
+
+.lista-ingredientes{
+  list-style-type: square;
+}
+
+.hover-list{
+  text-decoration: none;
+  transition: 1s;
+}
+
+.hover-list:hover{
+  transform: scale(1.1);
+}
+
+.texto-precio{
+  font-size: 4rem;
+}
+
+.texto-precio-antes{
+  text-decoration: line-through;
+}
